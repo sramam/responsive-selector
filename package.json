@@ -1,6 +1,6 @@
 {
   "name": "responsive-selector",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Select & preview an express application at various form-factors.",
   "main": "index.js",
   "scripts": {
