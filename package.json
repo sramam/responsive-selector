@@ -14,7 +14,7 @@
   "author": "sramam",
   "license": "ISC",
   "dependencies": {
-    "nunjucks": "^2.2.0",
+    "nunjucks": "^3.1.3",
     "parseurl": "^1.3.0"
   }
 }
